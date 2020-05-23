@@ -3,11 +3,10 @@ Displays the orbits of our solar system, interface asks user for certain attribu
 
 The Play:
 
-What I did for my project
-Converted customary units into metric units (Mi to Km)
-Converted metric units into light years (km to light years) 
-Acquired your star sign 
-Got to know an astronaut that shares your star sign and some facts about them
-Got to see the planetary orbits of Earth and Venus using the GUI turtle
+Video of my code running:
+
+https://youtu.be/dj2H4tcu6Us
+
+
 
 
