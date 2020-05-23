@@ -1,6 +1,10 @@
 # IDT-Python-Master-Project-2019-2020
 Displays the orbits of our solar system, interface asks user for certain attributes such as birthdate, and numerical figures to display a medley of data such as Light years, kilometers, miles, zodiac signs upon the request and desire of the user
 
+A slideshow format of everything I am about to say:
+
+https://docs.google.com/presentation/d/1t7SFVL0fXKF3C6AqHcm7jC74l_7CdaUqgIqEwRUtyPg/edit?usp=sharing
+
 The Play:
 
 What I did for my project
@@ -35,6 +39,8 @@ The Star Sign and Astronaut
 Visual demonstration of code and processes:
 
 https://www.youtube.com/watch?v=dj2H4tcu6Us
+
+
 
 
 
